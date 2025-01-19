@@ -41,4 +41,5 @@ TaskTrek is a task management web application built using React.js. It allows us
 3. **Delete a Task:** Hover over the delete button on a task card and click to remove the task.
 
 ** ScreenShot
+https://github.com/Lohith123hhhhh/tasktrek/blob/24a05b93ebe0653fdaec41bc387803d3036cb898/Screenshot%202025-01-19%20180301.png
 
